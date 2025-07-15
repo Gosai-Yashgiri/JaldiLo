@@ -1,0 +1,2 @@
+# JaldiLo
+JaldiLo(Django) Project.
